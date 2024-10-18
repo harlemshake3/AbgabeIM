@@ -2,7 +2,7 @@
 
 ## Projektbeschreibung
 
-Diese Webseite nutzt die **Open Meteo API**, um die Wolkenbedeckung von drei Standorten (Luzern, Chur, Locarno) in einer interaktiven Grafik darzustellen. Die Daten werden stündlich abgerufen und dynamisch auf einer farblich angepassten Grafik visualisiert. Die Hintergrundfarbe der Seite ändert sich basierend auf der Wolkenbedeckung – von Grau (bewölkt) bis Gelb (sonnig).
+Diese Webseite nutzt die **Open Meteo API**, um die Wolkenbedeckung von drei Standorten (Luzern, Chur, Locarno) in einer interaktiven Grafik darzustellen. Die Daten werden stündlich abgerufen und dynamisch auf einer farblich angepassten Grafik visualisiert. Die Hintergrundfarbe der Grafik ändert sich basierend auf der Wolkenbedeckung – von Grau (bewölkt) bis Gelb (sonnig).
 
 Ein weiteres Feature der Webseite ist die Möglichkeit, vergangene Daten anzusehen, indem ein Datum ausgewählt wird. So kann man historische Wetterdaten der drei Standorte einsehen und vergleichen, wo zu bestimmten Zeiten am wenigsten Wolken zu finden waren.
 
